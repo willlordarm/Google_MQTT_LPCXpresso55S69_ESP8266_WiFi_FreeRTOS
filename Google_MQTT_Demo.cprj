@@ -3,7 +3,7 @@
   <created timestamp="2020-07-17T17:13:05" tool="cbuildgen 0.9.0"/>
 
   <info isLayer="false">
-    <description>Automatic generated project</description>
+    <description>Google MQTT Demo</description>
     <category>Board, Cloud, IoT, Module, RTOS, Socket, WiFi</category>
     <keywords>Board, ESP8266, FreeRTOS, Google, LPCXpresso55S69, MQTT, Module, RTOS, Socket, WiFi</keywords>
     <license>Apache 2.0, BSD 3-Clause, EPL 1.0</license>
